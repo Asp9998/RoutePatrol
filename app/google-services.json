@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185866726434",
+    "project_id": "routepatrol-8380c",
+    "storage_bucket": "routepatrol-8380c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185866726434:android:7b0788e81b7a2548312e7b",
+        "android_client_info": {
+          "package_name": "com.aryanspatel.routepatrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgtSQsS852YgSyl1yc6b9zTehBM50hng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
